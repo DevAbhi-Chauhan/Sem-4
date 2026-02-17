@@ -1,0 +1,2 @@
+battery_kwh,usable_energy_kwh,avg_cycle_energy_kwh,cycles_per_charge,total_cycles,N_range,N_BEB,replacement_ratio
+350,297.5,35.703432043958884,8.332532279633822,57,7,11.0,1.0
